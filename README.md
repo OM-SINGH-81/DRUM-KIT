@@ -13,7 +13,7 @@ This is a simple interactive drum kit website that allows users to play various 
 
 ## 🌐 Live Demo
 Experience the Drum Kit live:  
-👉 [Live Demo Link](https://.github.io/drum-kit)  
+👉 [Live Demo Link]( https://om-singh-81.github.io/DRUM-KIT/)  
 
 ---
 
